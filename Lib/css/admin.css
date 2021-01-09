@@ -1,0 +1,15 @@
+.carteles {
+    width: 35%;
+}
+
+.contador {
+    font-size: 20px;
+}
+
+.error {
+    color: red;
+}
+
+html {
+    font-family: cursive;
+}

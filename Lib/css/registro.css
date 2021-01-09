@@ -1,0 +1,17 @@
+body{
+	font-family: cursive;
+}
+.btnRegistro{
+	width: 100%;
+}
+.logo{
+	width: 100%;
+}
+
+.btnInicioSesion{
+	width: 100%;	
+}
+
+.error{
+	color: red;
+}

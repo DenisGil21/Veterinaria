@@ -1,0 +1,13 @@
+.tabs .indicator{
+	background-color: #B2DBF6;
+}
+.tabs .tab a.active{
+	color: #6EA0EE;
+}
+.tabs .tab a{
+	color: #6EA0EE;
+}
+
+.boton{
+	width: 49%;
+}
